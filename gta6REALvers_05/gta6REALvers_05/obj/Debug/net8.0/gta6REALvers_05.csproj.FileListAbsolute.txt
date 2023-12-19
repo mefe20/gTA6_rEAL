@@ -1,0 +1,14 @@
+C:\Users\Пк\Desktop\gta6REALvers_05\gta6REALvers_05\bin\Debug\net8.0\gta6REALvers_05.exe
+C:\Users\Пк\Desktop\gta6REALvers_05\gta6REALvers_05\bin\Debug\net8.0\gta6REALvers_05.deps.json
+C:\Users\Пк\Desktop\gta6REALvers_05\gta6REALvers_05\bin\Debug\net8.0\gta6REALvers_05.runtimeconfig.json
+C:\Users\Пк\Desktop\gta6REALvers_05\gta6REALvers_05\bin\Debug\net8.0\gta6REALvers_05.dll
+C:\Users\Пк\Desktop\gta6REALvers_05\gta6REALvers_05\bin\Debug\net8.0\gta6REALvers_05.pdb
+C:\Users\Пк\Desktop\gta6REALvers_05\gta6REALvers_05\obj\Debug\net8.0\gta6REALvers_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пк\Desktop\gta6REALvers_05\gta6REALvers_05\obj\Debug\net8.0\gta6REALvers_05.AssemblyInfoInputs.cache
+C:\Users\Пк\Desktop\gta6REALvers_05\gta6REALvers_05\obj\Debug\net8.0\gta6REALvers_05.AssemblyInfo.cs
+C:\Users\Пк\Desktop\gta6REALvers_05\gta6REALvers_05\obj\Debug\net8.0\gta6REALvers_05.csproj.CoreCompileInputs.cache
+C:\Users\Пк\Desktop\gta6REALvers_05\gta6REALvers_05\obj\Debug\net8.0\gta6REALvers_05.dll
+C:\Users\Пк\Desktop\gta6REALvers_05\gta6REALvers_05\obj\Debug\net8.0\refint\gta6REALvers_05.dll
+C:\Users\Пк\Desktop\gta6REALvers_05\gta6REALvers_05\obj\Debug\net8.0\gta6REALvers_05.pdb
+C:\Users\Пк\Desktop\gta6REALvers_05\gta6REALvers_05\obj\Debug\net8.0\gta6REALvers_05.genruntimeconfig.cache
+C:\Users\Пк\Desktop\gta6REALvers_05\gta6REALvers_05\obj\Debug\net8.0\ref\gta6REALvers_05.dll

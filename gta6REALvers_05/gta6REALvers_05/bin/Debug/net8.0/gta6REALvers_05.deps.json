@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "gta6REALvers_05/1.0.0": {
+        "runtime": {
+          "gta6REALvers_05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gta6REALvers_05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
