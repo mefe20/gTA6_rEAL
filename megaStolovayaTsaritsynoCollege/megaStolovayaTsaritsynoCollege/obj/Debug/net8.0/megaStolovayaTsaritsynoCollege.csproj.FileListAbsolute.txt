@@ -1,0 +1,14 @@
+C:\Users\Пк\Desktop\megaStolovayaTsaritsynoCollege\megaStolovayaTsaritsynoCollege\bin\Debug\net8.0\megaStolovayaTsaritsynoCollege.exe
+C:\Users\Пк\Desktop\megaStolovayaTsaritsynoCollege\megaStolovayaTsaritsynoCollege\bin\Debug\net8.0\megaStolovayaTsaritsynoCollege.deps.json
+C:\Users\Пк\Desktop\megaStolovayaTsaritsynoCollege\megaStolovayaTsaritsynoCollege\bin\Debug\net8.0\megaStolovayaTsaritsynoCollege.runtimeconfig.json
+C:\Users\Пк\Desktop\megaStolovayaTsaritsynoCollege\megaStolovayaTsaritsynoCollege\bin\Debug\net8.0\megaStolovayaTsaritsynoCollege.dll
+C:\Users\Пк\Desktop\megaStolovayaTsaritsynoCollege\megaStolovayaTsaritsynoCollege\bin\Debug\net8.0\megaStolovayaTsaritsynoCollege.pdb
+C:\Users\Пк\Desktop\megaStolovayaTsaritsynoCollege\megaStolovayaTsaritsynoCollege\obj\Debug\net8.0\megaStolovayaTsaritsynoCollege.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пк\Desktop\megaStolovayaTsaritsynoCollege\megaStolovayaTsaritsynoCollege\obj\Debug\net8.0\megaStolovayaTsaritsynoCollege.AssemblyInfoInputs.cache
+C:\Users\Пк\Desktop\megaStolovayaTsaritsynoCollege\megaStolovayaTsaritsynoCollege\obj\Debug\net8.0\megaStolovayaTsaritsynoCollege.AssemblyInfo.cs
+C:\Users\Пк\Desktop\megaStolovayaTsaritsynoCollege\megaStolovayaTsaritsynoCollege\obj\Debug\net8.0\megaStolovayaTsaritsynoCollege.csproj.CoreCompileInputs.cache
+C:\Users\Пк\Desktop\megaStolovayaTsaritsynoCollege\megaStolovayaTsaritsynoCollege\obj\Debug\net8.0\megaStolovayaTsaritsynoCollege.dll
+C:\Users\Пк\Desktop\megaStolovayaTsaritsynoCollege\megaStolovayaTsaritsynoCollege\obj\Debug\net8.0\refint\megaStolovayaTsaritsynoCollege.dll
+C:\Users\Пк\Desktop\megaStolovayaTsaritsynoCollege\megaStolovayaTsaritsynoCollege\obj\Debug\net8.0\megaStolovayaTsaritsynoCollege.pdb
+C:\Users\Пк\Desktop\megaStolovayaTsaritsynoCollege\megaStolovayaTsaritsynoCollege\obj\Debug\net8.0\megaStolovayaTsaritsynoCollege.genruntimeconfig.cache
+C:\Users\Пк\Desktop\megaStolovayaTsaritsynoCollege\megaStolovayaTsaritsynoCollege\obj\Debug\net8.0\ref\megaStolovayaTsaritsynoCollege.dll
